@@ -4,15 +4,15 @@
 * 🎂 24 Years old
 * 🌱 Still learning
 <div> 
-  <a href="https://www.linkedin.com/in/luahon/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/lucashonoratoc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:lucasafshc@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 
 ## Statistics
   
 <div align="left">
-  <a href="https://github.com/luahon">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luahon&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luahon&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <a href="https://github.com/lucashonoratoc">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucashonoratoc&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucashonoratoc&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
   
 ## Programming Languages and Tools
@@ -27,7 +27,7 @@
 
 
 <!--
-**Luahon/luahon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lucashonoratoc/lucashonoratoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

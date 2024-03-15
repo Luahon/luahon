@@ -1,7 +1,7 @@
 ### Hi! I am Lucas Honorato, nice to meet you!
 * 📖 Systems Development Analyst Student
 * 🖥️ Data Scientist aspirant
-* 🎂 24 Years old
+* 🎂 25 Years old
 * 🌱 Still learning
 <div> 
   <a href="https://www.linkedin.com/in/lucashonoratoc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
